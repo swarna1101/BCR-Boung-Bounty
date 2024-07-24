@@ -34,10 +34,10 @@ The following components are out of scope:
 
 ### Smart Contract
 
-- **Critical:** USD $2,500
-- **High:** USD $2,000
-- **Medium:** USD $1,000
-- **Low:** USD $500
+- **Critical:** 50,000 - 100,000 TKO tokens
+- **High:** 25,000 - 50,000 TKO tokens
+- **Medium:** 10,000 - 25,000 TKO tokens
+- **Low:** 5,000 - 10,000 TKO tokens
 
 ## Impact and Scope
 
@@ -91,15 +91,26 @@ Taiko's completed audit reports can be found [here](https://github.com/taikoxyz/
 1. **Proof of Concept (POC):** Submissions must include a proof of concept (POC) demonstrating the vulnerability. The POC should include step-by-step instructions to reproduce the issue. All web and app bug reports must come with a POC. All bug reports submitted without POC will be rejected with instructions to provide POC.
 2. **Detailed Report:** Submissions must include a detailed report outlining the vulnerability, its impact, and potential mitigation strategies.
 3. **Restrictions:**
-    - Do not perform any tests that could disrupt the network or services.
-    - Do not use automated scanners that could generate a high volume of traffic.
-    - No testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet.
-    - No testing with pricing oracles or third-party smart contracts.
-    - No phishing or other social engineering attacks against our employees and/or customers.
-    - No testing with third-party systems and applications (e.g., browser extensions) as well as websites (e.g., SSO providers, advertising networks).
-    - No denial of service attacks that are executed against project assets.
-    - No public disclosure of an unpatched vulnerability in an embargoed bounty.
-    - No actions prohibited by the Immunefi Rules.
+   - Do not perform any tests that could disrupt the network or services.
+   - No testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet.
+   - No testing with pricing oracles or third-party smart contracts.
+   - No phishing or other social engineering attacks against our employees and/or customers.
+   - No testing with third-party systems and applications.
+   - No denial of service attacks that are executed against project assets.
+   - No public disclosure of an unpatched vulnerability in an embargoed bounty.
+   - No actions prohibited by the Taiko Rules.
+
+## Budget
+
+- **Total Budget:** 1,000,000 TKO tokens.
+- **Reward per Valid Bug:** 50,000 - 100,000 TKO tokens.
+- **Additional Notes:** The program is ongoing and auto-renewed. We will top up more TKO tokens if some have been rewarded to participants.
+
+
+## Submission Process
+
+- **Email for Submission:** All bug reports must be submitted via email to [security@taiko.xyz](mailto:security@taiko.xyz).
+- **Disclosure Policy:** Disclosure of these bugs before we fix them will disqualify the reporters from receiving any reward.
 
 ## Resources
 
@@ -110,5 +121,4 @@ Taiko's completed audit reports can be found [here](https://github.com/taikoxyz/
 
 ## Legal
 
-By participating in this program, you agree to comply with all applicable local and international laws. Any activities that are illegal will result in immediate disqualification from the program.
-
+By participating in this program, you agree to comply with all applicable local and international laws. 
