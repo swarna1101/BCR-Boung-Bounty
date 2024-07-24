@@ -34,10 +34,10 @@ The following components are out of scope:
 
 ### Smart Contract
 
-- **Critical:** 50,000 - 100,000 TKO tokens
-- **High:** 25,000 - 50,000 TKO tokens
-- **Medium:** 10,000 - 25,000 TKO tokens
-- **Low:** 5,000 - 10,000 TKO tokens
+- **Critical:** 50,000 - 100,000 TAIKO tokens
+- **High:** 25,000 - 50,000 TAIKO tokens
+- **Medium:** 10,000 - 25,000 TAIKO tokens
+- **Low:** 5,000 - 10,000 TAIKO tokens
 
 ## Impact and Scope
 
@@ -102,9 +102,9 @@ Taiko's completed audit reports can be found [here](https://github.com/taikoxyz/
 
 ## Budget
 
-- **Total Budget:** 1,000,000 TKO tokens.
-- **Reward per Valid Bug:** 50,000 - 100,000 TKO tokens.
-- **Additional Notes:** The program is ongoing and auto-renewed. We will top up more TKO tokens if some have been rewarded to participants.
+- **Total Budget:** 1,000,000 TAIKO tokens.
+- **Reward per Valid Bug:** 50,000 - 100,000 TAIKO tokens.
+- **Additional Notes:** The program is ongoing and auto-renewed. We will top up more TAIKO tokens if some have been rewarded to participants.
 
 
 ## Submission Process
